@@ -1,0 +1,87 @@
+body{
+    margin: 0;
+    text-align: center;
+}
+
+hr{
+    border-width: 5px;
+    border-color: black;
+    margin: 0;
+    border-bottom: 0;
+}
+
+.top-container{
+    position: relative;
+    padding-top: 100px;
+    background-color: #B9E0FF;
+}
+
+.top-heading{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+}
+
+.top-text{
+    font-family: 'Montserrat', sans-serif;
+    margin-bottom: 0;
+    margin-top: 0;
+    font-size: 40px;
+}
+
+.top-gears{
+    position: absolute;
+    right: 50px;
+    height: 200px;
+    top: 26px;
+}
+
+.middle-container{
+    background-color: #BCCEF8;
+}
+
+.middle-heading{
+    font-size: 60px;
+    margin: 0;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.middle-text{
+    padding-top: 20px;
+    font-family: Montserrat, sans-serif;
+    margin: 0;
+    font-size: 30px;
+    font-weight: bold;
+}
+
+.mcvc-image{
+    width: 250px;
+
+    padding-top: 10px;
+    border-radius: 50%;
+}
+
+.university-image{
+    height: 300px;
+}
+
+.bottom-container{
+    background-color: #3B3486;
+}
+
+.bottom-heading{
+    margin-top: 0;
+    margin-bottom: 0;
+    font-family: 'Montserrat', sans-serif;
+    font-size: 45px;
+    color: white;
+}
+
+.instagram-image{
+    height: 100px;
+}
+
+.linkedin-image{
+    height: 100px;
+}
